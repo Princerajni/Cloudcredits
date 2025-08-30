@@ -22,3 +22,9 @@
   - Root Mean Squared Error (RMSE)
   - R² Score
 - Visualizations show the distribution of house prices and impact of key features.
+
+
+
+
+
+# Fraud Detection
